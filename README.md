@@ -35,7 +35,7 @@ Spring Web, Spring Boot DevTools, Spring Data JPA, Spring Security
 
   * Download project dependencies using Npm
   ```shell
-    $ nmp i
+    $ npm install
   ```
 
   * Run application using Yarn
